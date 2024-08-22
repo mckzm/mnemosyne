@@ -6,6 +6,7 @@
 * [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/)
   * offers a gentle intro to systems programming concepts
   * longer, more life-like examples than Rustlings and RBE
+  * covers tokio
 
 # Rust & Functional Programming (FP)
 * Many of Rust's FP-supporting features and idiosyncracies are nicely outlined in:
