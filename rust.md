@@ -1,10 +1,10 @@
-# Learning Resources (General)
+# General Learning Resources
 * [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
   * A great way to delve deeper into the language's semantics, and a very fun read :-)
 * [Learning Rust](https://quinedot.github.io/rust-learning/) by QuineDot
   * particularly helpful/enlightening on borrows/lifetimes and `dyn Trait`
 
-# Hands-On Resources to Learn Rust
+# Hands-On Learning Resources
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) (browser/playground-based)
   * best read in tandem with [QuineDot's Notes](https://github.com/QuineDot/rbe-notes)
 * [Rustlings](https://rustlings.cool) (local install)
