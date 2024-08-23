@@ -8,6 +8,7 @@
   * particularly helpful/enlightening on borrows/lifetimes and `dyn Trait`
 * [Rust for Rustaceans](https://rust-for-rustaceans.com)
 * [std's doc](https://doc.rust-lang.org/stable/std/)
+* [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 
 # Hands-On Learning Resources
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) (browser/playground-based)
