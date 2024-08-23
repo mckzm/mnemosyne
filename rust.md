@@ -1,8 +1,12 @@
 # General Learning Resources
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) AKA the Rust Book
+* [Brown University's version of the Rust Book](https://rust-book.cs.brown.edu)
+  * spruced up with visualisations and a whole lot of interactive quizzes, in particular IRT ownership and UB
 * [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
   * A great way to delve deeper into the language's semantics, and a very fun read :-)
 * [Learning Rust](https://quinedot.github.io/rust-learning/) by QuineDot
   * particularly helpful/enlightening on borrows/lifetimes and `dyn Trait`
+* [Rust for Rustaceans](https://rust-for-rustaceans.com)
 
 # Hands-On Learning Resources
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) (browser/playground-based)
