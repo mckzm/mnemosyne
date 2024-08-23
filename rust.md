@@ -7,6 +7,7 @@
 * [Learning Rust](https://quinedot.github.io/rust-learning/) by QuineDot
   * particularly helpful/enlightening on borrows/lifetimes and `dyn Trait`
 * [Rust for Rustaceans](https://rust-for-rustaceans.com)
+* [std's doc](https://doc.rust-lang.org/stable/std/)
 
 # Hands-On Learning Resources
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) (browser/playground-based)
@@ -32,4 +33,20 @@
      * supported output formats incl. asm, wasm and Rust's various IRs
      * only really lacks a REPL :-)
    
+# Embedded Rust
+* [Embedded Rust doc](https://docs.rust-embedded.org)
+
 # Internals
+* [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
+* [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
+* [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
+* [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html)
+
+# Design
+* [How to Code It](https://www.howtocodeit.com)
+* [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
+
+# Async Rust
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
+* [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
