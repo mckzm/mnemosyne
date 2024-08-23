@@ -47,6 +47,8 @@
 * [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html)
 * [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/)
+* [Rust Atomics and Locks](https://marabos.nl/atomics/)
+* [AtomicUsize, Mutex, and interior mutability](https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html)
 
 # Design
 * [How to Code It](https://www.howtocodeit.com)
