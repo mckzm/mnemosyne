@@ -20,6 +20,9 @@
   * covers tokio
 * [Rust by Practice](https://practice.course.rs)
 * [Exercism's Rust track](https://exercism.org/tracks/rust)
+* [MacroKata](https://tfpk.github.io/macrokata/index.html)
+  * `macro_rules!` only as of this writing
+* [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop)
 
 # Rust & Functional Programming (FP)
 * Many of Rust's FP-supporting features and idiosyncracies are nicely outlined in:
