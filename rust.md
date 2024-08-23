@@ -26,6 +26,11 @@
   * [Collect in Rust, traverse in Haskell and Scala](https://tech.fpcomplete.com/blog/collect-rust-traverse-haskell-scala/)
   * [Rust for Haskell Developers](https://serokell.io/blog/rust-for-haskellers)
 
+# Type System
+* [The Pain Of Real Linear Types in Rust](https://faultlore.com/blah/linear-rust/)
+* [More on affine typing in Rust](https://without.boats/blog/ownership/)
+* [Defaults Affect Inference in Rust: Expressions Instead Of Types](https://faultlore.com/blah/defaults-affect-inference/)
+
 # Tools
 * [Rust Playground](https://play.rust-lang.org/)
   * very full-featured
@@ -41,6 +46,7 @@
 * [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 * [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html)
+* [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/)
 
 # Design
 * [How to Code It](https://www.howtocodeit.com)
