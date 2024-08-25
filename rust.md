@@ -41,6 +41,8 @@
      * tools incl. `Clippy`, `rustfmt`, `Miri` and macro expansion (nightly only)
      * supported output formats incl. asm, wasm and Rust's various IRs
      * only really lacks a REPL :-)
+* [cargo-expand](https://crates.io/crates/cargo-expand)
+  * outputs the exansions of the current crate's `macro_rules!`s and `#derive`s
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
