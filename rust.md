@@ -55,7 +55,7 @@
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
-* [Raph Lieven's Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/>
+* [Raph Lieven's Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/)
 * [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 * [The rustc Book](https://doc.rust-lang.org/rustc/index.html)
 * [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html)
