@@ -66,6 +66,7 @@
 # Design
 * [How to Code It](https://www.howtocodeit.com)
 * [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
+* [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
