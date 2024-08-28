@@ -63,10 +63,11 @@
 * [Rust Atomics and Locks](https://marabos.nl/atomics/)
 * [AtomicUsize, Mutex, and interior mutability](https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html)
 
-# Design
+# Design & Perf
 * [How to Code It](https://www.howtocodeit.com)
 * [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
+* [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
