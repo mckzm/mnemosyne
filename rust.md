@@ -49,6 +49,8 @@
   * property-based testing
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
   * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
+* [pest](https://pest.rs) parser
+  * [awesome pest](https://github.com/pest-parser/awesome-pest)
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
