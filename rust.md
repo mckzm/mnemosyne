@@ -17,7 +17,7 @@
 * [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/)
   * offers a gentle intro to systems programming concepts
   * longer, more life-like examples than Rustlings and RBE
-  * covers tokio
+  * covers [Tokio](https://tokio.rs)
 * [Rust by Practice](https://practice.course.rs)
 * [Exercism's Rust track](https://exercism.org/tracks/rust)
 * [MacroKata](https://tfpk.github.io/macrokata/index.html)
@@ -70,6 +70,8 @@
 * [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+* [Circular References](https://mckayla.blog/posts/circular-references.html)
+  * safe & unsafe Rust compared w/ Go and Zig
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
