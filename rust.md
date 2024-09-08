@@ -54,6 +54,8 @@
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
+* [Embassy](https://embassy.dev/)
+  * async Rust for embedded
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
