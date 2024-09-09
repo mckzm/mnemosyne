@@ -1,4 +1,7 @@
 # General Learning Resources
+* [Yet Another Rust Resource (YARR!)](https://yarr.fyi/introduction)
+  * the best learning resource I know of for Rust beginners
+    * [its objectives, and how to use it, are explained in a blog post by Nicole, its author](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) AKA the Rust Book
 * [Brown University's version of the Rust Book](https://rust-book.cs.brown.edu)
   * spruced up with visualisations and a whole lot of interactive quizzes, in particular IRT ownership and UB
