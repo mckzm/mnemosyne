@@ -60,6 +60,10 @@
 * [Embassy](https://embassy.dev/)
   * async Rust for embedded
 
+# Operating Systems in Rust
+* [Awesome Rust/Operating Systems](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#operating-systems)
+* [Comparison of Oses written in Rust](https://github.com/flosse/rust-os-comparison)
+
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
 * [Raph Lieven's Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/)
