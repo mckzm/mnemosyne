@@ -62,7 +62,7 @@
 
 # Operating Systems in Rust
 * [Awesome Rust/Operating Systems](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#operating-systems)
-* [Comparison of Oses written in Rust](https://github.com/flosse/rust-os-comparison)
+* [Comparison of OSes written in Rust](https://github.com/flosse/rust-os-comparison)
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
