@@ -87,3 +87,4 @@
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 * [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 * [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
+* [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
