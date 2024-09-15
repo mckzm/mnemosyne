@@ -79,6 +79,7 @@
 * [Modular Errors in Rust](https://sabrinajewson.org/blog/errors)
 * [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 * [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+* [Nesting Allocators](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [Circular References](https://mckayla.blog/posts/circular-references.html)
   * safe & unsafe Rust compared w/ Go and Zig
 
