@@ -60,9 +60,13 @@
 * [Embassy](https://embassy.dev/)
   * async Rust for embedded
 
-# Operating Systems in Rust
-* [Awesome Rust/Operating Systems](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#operating-systems)
-* [Comparison of OSes written in Rust](https://github.com/flosse/rust-os-comparison)
+# Operating Systems Development in Rust
+* Incomplete/not necessarily up-to-date lists of OSes written (for the most part) in Rust:
+  * [Awesome Rust/Operating Systems](https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file#operating-systems)
+  * [Comparison of OSes written in Rust](https://github.com/flosse/rust-os-comparison)
+* [Rust OSDev](https://rust-osdev.com)
+  * publishes monthly updates dedicated to OS development in Rust
+* [CharlotteOS](https://www.charlotte-os.org)
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
