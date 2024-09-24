@@ -38,7 +38,7 @@
 * [More on affine typing in Rust](https://without.boats/blog/ownership/)
 * [Defaults Affect Inference in Rust: Expressions Instead Of Types](https://faultlore.com/blah/defaults-affect-inference/)
 
-# Tools, Crates Etc.
+# Miscellaneous Tools & Crates
 * [Rust Playground](https://play.rust-lang.org/)
   * very full-featured
      * tools incl. `Clippy`, `rustfmt`, `Miri` and macro expansion (nightly only)
@@ -54,6 +54,9 @@
   * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 * [pest](https://pest.rs) parser
   * [awesome pest](https://github.com/pest-parser/awesome-pest)
+* [Rayon](https://crates.io/crates/rayon)
+  * [work-stealing](https://github.com/rayon-rs/rayon/blob/main/FAQ.md#how-does-rayon-balance-work-between-threads) data-parallelism library in the vein of [Cilk](https://en.wikipedia.org/wiki/Cilk) / [OpenCilk](https://www.opencilk.org)
+    * cf. the [Rust + Cilk](https://dspace.mit.edu/handle/1721.1/156790) extension (work in progress)
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
