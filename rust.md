@@ -70,6 +70,8 @@
 * [Rust OSDev](https://rust-osdev.com)
   * publishes monthly updates dedicated to OS development in Rust
 * [CharlotteOS](https://www.charlotte-os.org)
+* [Hermit for Rust](https://github.com/hermit-os/hermit-rs)
+  * unikernel
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
