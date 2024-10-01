@@ -57,6 +57,14 @@
 * [Rayon](https://crates.io/crates/rayon)
   * [work-stealing](https://github.com/rayon-rs/rayon/blob/main/FAQ.md#how-does-rayon-balance-work-between-threads) data-parallelism library in the vein of [Cilk](https://en.wikipedia.org/wiki/Cilk) / [OpenCilk](https://www.opencilk.org)
     * cf. the [Rust + Cilk](https://dspace.mit.edu/handle/1721.1/156790) extension (work in progress)
+* [SQLx](https://crates.io/crates/sqlx)
+  * async SQL toolkit w/ compile-time checked queries
+  * [ecosystem](https://github.com/launchbadge/sqlx/wiki/Ecosystem) incl. ORMs, notably [SeaORM](https://crates.io/crates/sea-orm)
+* [hyper](https://crates.io/crates/hyper)
+  * HTTP library leveraged by [tokio](https://crates.io/crates/tokio) and, inter alia:
+    * [warp](https://crates.io/crates/warp) - web server framework
+    * [reqwest](https://crates.io/crates/reqwest) - HTTP client lib
+    * [axum](https://crates.io/crates/axum) - web app framework
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
