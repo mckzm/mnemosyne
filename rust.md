@@ -110,3 +110,10 @@
 * Cancellations:
   * [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
   * [Async Cancellation II: Time and Signals](https://blog.yoshuawuyts.com/async-cancellation-2/)
+
+# Rust and WebAssembly
+* [rustwasm Website](https://rustwasm.github.io) and [GitHub repo](https://github.com/rustwasm)
+  * [rustwasm doc](https://rustwasm.github.io/docs.html)
+    * the [Rust and WebAssembly book](https://rustwasm.github.io/docs/book/) provides a natural starting point w/ both [tutorial](https://rustwasm.github.io/docs/book/game-of-life/introduction.html) and [reference](https://rustwasm.github.io/docs/book/reference/index.html) sections
+    * [wasm-bindgen guide](https://rustwasm.github.io/docs/wasm-bindgen/)
+    * [wasm-pack book](https://rustwasm.github.io/docs/wasm-pack/)
