@@ -80,6 +80,7 @@
 * [CharlotteOS](https://www.charlotte-os.org)
 * [Hermit for Rust](https://github.com/hermit-os/hermit-rs)
   * unikernel
+* [Rust for Linux](https://rust-for-linux.com)
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
