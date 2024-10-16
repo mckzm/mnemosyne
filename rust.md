@@ -102,7 +102,8 @@
   * safe & unsafe Rust compared w/ Go and Zig
 
 # Async Rust
-* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - AKA the Async Book
+* [Work-stealing & Share-nothing](https://without.boats/blog/thread-per-core/)
 * [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 * [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 * [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
@@ -111,6 +112,12 @@
 * Cancellations:
   * [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
   * [Async Cancellation II: Time and Signals](https://blog.yoshuawuyts.com/async-cancellation-2/)
+* Popular Async runtimes:
+  * [Tokio](https://crates.io/crates/tokio) and [the Tokio stack](https://tokio.rs) are the de-facto standards
+  * [async-std](https://crates.io/crates/async-std) aims to offer "an async version of std"
+    * [async-std book](https://book.async.rs)
+  * [smol](https://crates.io/crates/smol) aims to be small and fast
+  * [Datadog's Glommio](https://crates.io/crates/glommio) leverages io_uring (so is Linux-only)
 
 # Rust and WebAssembly
 * [rustwasm Website](https://rustwasm.github.io) and [GitHub repo](https://github.com/rustwasm)
