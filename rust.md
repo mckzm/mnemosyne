@@ -65,6 +65,9 @@
     * [warp](https://crates.io/crates/warp) - web server framework
     * [reqwest](https://crates.io/crates/reqwest) - HTTP client lib
     * [axum](https://crates.io/crates/axum) - web app framework
+* [Crossbeam](https://crates.io/crates/crossbeam)
+  * various tools for concurrent programming, including MPMC channels
+  * the project's wiki incl. a list of (non-Rust specific) resources on concurrent programming & related topics
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
