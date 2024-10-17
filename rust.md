@@ -84,6 +84,8 @@
 * [Hermit for Rust](https://github.com/hermit-os/hermit-rs)
   * unikernel
 * [Rust for Linux](https://rust-for-linux.com)
+* [Redox OS](https://www.redox-os.org)
+  * [Redox OS book](https://doc.redox-os.org/book/)
 
 # Internals
 * [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
