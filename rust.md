@@ -130,3 +130,16 @@
     * the [Rust and WebAssembly book](https://rustwasm.github.io/docs/book/) provides a natural starting point w/ both [tutorial](https://rustwasm.github.io/docs/book/game-of-life/introduction.html) and [reference](https://rustwasm.github.io/docs/book/reference/index.html) sections
     * [wasm-bindgen guide](https://rustwasm.github.io/docs/wasm-bindgen/)
     * [wasm-pack book](https://rustwasm.github.io/docs/wasm-pack/)
+   
+# TLS Libs
+* [Rustls](https://crates.io/crates/rustls) - TLS lib written in Rust
+  * [audit report (from 2020)](https://github.com/rustls/rustls/tree/main/audit)
+  * [related libs](https://github.com/rustls), notably:
+    * [hyper-rustls](https://crates.io/crates/hyper-rustls)
+    * [tokio-rustls](https://crates.io/crates/tokio-rustls)
+* [native-tls](https://crates.io/crates/native-tls/0.2.12)
+  * abstracts over OS-specific crates that provide bindings for said OSes' native TLS libs
+  * powers [tokio-native-tls](https://crates.io/crates/tokio-native-tls)
+* Comparisons between Rustls and native-tls:
+  * [A brief guide to choosing TLS crates (reddit/r/rust)](https://www.reddit.com/r/rust/comments/1454654/a_brief_guide_to_choosing_tls_crates/)
+  * [`Prefer `rustls` over `native_tls`?` (URLO thread)](https://users.rust-lang.org/t/prefer-rustls-over-native-tls/90137)
