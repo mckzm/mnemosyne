@@ -68,6 +68,8 @@
 * [Crossbeam](https://crates.io/crates/crossbeam)
   * various tools for concurrent programming, including MPMC channels
   * the project's wiki incl. a list of (non-Rust specific) resources on concurrent programming & related topics
+* [Mockall](https://crates.io/crates/mockall)
+  * mocking lib - the [automock](https://docs.rs/mockall/latest/mockall/attr.automock.html) macro is particularly convenient
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
