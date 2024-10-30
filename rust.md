@@ -50,6 +50,11 @@
   * microbenchmarking lib inspired by [its Haskell namesake](https://hackage.haskell.org/package/criterion)
 * [QuickCheck](https://crates.io/crates/quickcheck)
   * property-based testing
+* [proptest](https://crates.io/crates/proptest)
+  * property-based testing
+  * more actively maintained than quickcheck, inspired by Python's [Hypothesis](https://hypothesis.works)
+    * [differences between quickcheck and proptest, from the README](https://github.com/proptest-rs/proptest?tab=readme-ov-file#differences-between-quickcheck-and-proptest)
+  * [proptest book](https://proptest-rs.github.io/proptest/)
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
   * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 * [pest](https://pest.rs) parser
