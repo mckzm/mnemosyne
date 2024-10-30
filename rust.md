@@ -46,17 +46,6 @@
      * only really lacks a REPL :-)
 * [cargo-expand](https://crates.io/crates/cargo-expand)
   * outputs the exansions of the current crate's `macro_rules!`s and `#derive`s
-* [Criterion](https://crates.io/crates/criterion)
-  * microbenchmarking lib inspired by [its Haskell namesake](https://hackage.haskell.org/package/criterion)
-* [QuickCheck](https://crates.io/crates/quickcheck)
-  * property-based testing
-* [proptest](https://crates.io/crates/proptest)
-  * property-based testing
-  * more actively maintained than quickcheck, inspired by Python's [Hypothesis](https://hypothesis.works)
-    * [differences between quickcheck and proptest, from the README](https://github.com/proptest-rs/proptest?tab=readme-ov-file#differences-between-quickcheck-and-proptest)
-  * [proptest book](https://proptest-rs.github.io/proptest/)
-* [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
-  * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 * [pest](https://pest.rs) parser
   * [awesome pest](https://github.com/pest-parser/awesome-pest)
 * [Rayon](https://crates.io/crates/rayon)
@@ -73,8 +62,21 @@
 * [Crossbeam](https://crates.io/crates/crossbeam)
   * various tools for concurrent programming, including MPMC channels
   * the project's wiki incl. a list of (non-Rust specific) resources on concurrent programming & related topics
+ 
+# Testing
+* [QuickCheck](https://crates.io/crates/quickcheck)
+  * property-based testing
+* [proptest](https://crates.io/crates/proptest)
+  * property-based testing
+  * more actively maintained than quickcheck, inspired by Python's [Hypothesis](https://hypothesis.works)
+    * [differences between quickcheck and proptest, from the README](https://github.com/proptest-rs/proptest?tab=readme-ov-file#differences-between-quickcheck-and-proptest)
+  * [proptest book](https://proptest-rs.github.io/proptest/)
+* [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
+  * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 * [Mockall](https://crates.io/crates/mockall)
   * mocking lib - the [automock](https://docs.rs/mockall/latest/mockall/attr.automock.html) macro is particularly convenient
+* [Criterion](https://crates.io/crates/criterion)
+  * microbenchmarking lib inspired by [its Haskell namesake](https://hackage.haskell.org/package/criterion)
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
