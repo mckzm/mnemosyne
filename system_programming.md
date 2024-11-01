@@ -1,6 +1,6 @@
 # Abstract Machines vs Concrete Outcomes
 * [Uninitialised memory & UB](https://www.ralfj.de/blog/2019/07/14/uninit.html)
-  * cf. David Chisnall's [C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479) (which Ralf's piece refers to)
+  * cf. David Chisnall's [C Is Not a Low-level Language](https://queue.acm.org/detail.cfm?id=3212479) (which the piece above refers to)
   * pointers & pitfalls:
     * [pointer semantics](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
     * [aliasing, alias analysis and pointer provenance](https://faultlore.com/blah/fix-rust-pointers/#background)
