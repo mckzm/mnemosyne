@@ -16,6 +16,9 @@
   * [The C standard formalized in Coq](https://robbertkrebbers.nl/thesis.html) (C11)
   * [C semantics](https://github.com/kframework/c-semantics) (C17) for the [K Framework](https://github.com/runtimeverification/k)
   * [Cerberus](https://www.cl.cam.ac.uk/~pes20/cerberus/) (C11)
+* C runtime:
+  * [crt0 entry on Wikipedia](https://en.wikipedia.org/wiki/Crt0)
+  * [Program Initialization (OSDev.org)](https://wiki.osdev.org/Creating_a_C_Library#Program_Initialization)
 
 # CHERI
 * [CHERI's page on the Uni of Cambridge's site](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
