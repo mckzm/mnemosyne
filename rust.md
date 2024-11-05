@@ -64,6 +64,8 @@
   * the project's wiki incl. a list of (non-Rust specific) resources on concurrent programming & related topics
  
 # Testing
+* [rstest](https://crates.io/crates/rstest)
+  * test framework that provides proc macros to make writing fixtures and table-based tests easier
 * [QuickCheck](https://crates.io/crates/quickcheck)
   * property-based testing
 * [proptest](https://crates.io/crates/proptest)
