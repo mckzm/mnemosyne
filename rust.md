@@ -62,6 +62,10 @@
 * [Crossbeam](https://crates.io/crates/crossbeam)
   * various tools for concurrent programming, including MPMC channels
   * the project's wiki incl. a list of (non-Rust specific) resources on concurrent programming & related topics
+* [youki](https://crates.io/crates/youki)
+  * implementation of the [OCI runtime-spec](https://github.com/opencontainers/runtime-spec) written in Rust
+    * IOW alternative to e.g. [runc](https://github.com/opencontainers/runc), written in Go, and [crun](https://github.com/containers/crun), written in C
+  * [user/developer doc](https://youki-dev.github.io/youki/)
  
 # Testing
 * [rstest](https://crates.io/crates/rstest)
