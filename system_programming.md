@@ -7,6 +7,8 @@
 
 # C
 * [ISO Standards](https://www.iso-9899.info/wiki/The_Standard)
+* [cppreference.com](https://en.cppreference.com/w/)
+  * references for C and C++ - the languages as well as their standard libraries
 * C's ABI(s):
   * [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/)
     * [More on the C ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
