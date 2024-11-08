@@ -21,6 +21,10 @@
 * C runtime:
   * [crt0 entry on Wikipedia](https://en.wikipedia.org/wiki/Crt0)
   * [Program Initialization (OSDev.org)](https://wiki.osdev.org/Creating_a_C_Library#Program_Initialization)
+* libc:
+  * [C standard library (Wikipedia overview)](https://en.wikipedia.org/wiki/C_standard_library)
+  * [glibc manuals](https://sourceware.org/glibc/manual/)
+    * as of this writing 2.22 -> 2.40 are available in multiple formats (including HTML and PDF)
 
 # CHERI
 * [CHERI's page on the Uni of Cambridge's site](https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/)
