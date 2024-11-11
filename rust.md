@@ -120,6 +120,11 @@
 * [Nesting Allocators](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [Circular References](https://mckayla.blog/posts/circular-references.html)
   * safe & unsafe Rust compared w/ Go and Zig
+* [Command Line Applications in Rust](https://rust-cli.github.io/book/)
+  * provides a good introduction to the topic, with the first part being a hands-on tutorial
+* [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io)
+  * work in progress as of this writing
+* [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - AKA the Async Book
