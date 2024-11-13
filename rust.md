@@ -120,6 +120,8 @@
 * [Nesting Allocators](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [Circular References](https://mckayla.blog/posts/circular-references.html)
   * safe & unsafe Rust compared w/ Go and Zig
+ 
+# CLI Applications
 * [Command Line Applications in Rust](https://rust-cli.github.io/book/)
   * provides a good introduction to the topic, with the first part being a hands-on tutorial
 * [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io)
