@@ -127,6 +127,9 @@
 * [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io)
   * work in progress as of this writing
 * [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
+* Useful Crates:
+  * [clap](https://crates.io/crates/clap) - argument-parsing library packed full with features
+    * the doc includes [helpful examples](https://docs.rs/clap/latest/clap/_derive/_cookbook/index.html#modules)
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - AKA the Async Book
