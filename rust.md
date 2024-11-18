@@ -130,6 +130,9 @@
 * Useful Crates:
   * [clap](https://crates.io/crates/clap) - argument-parsing library packed full with features
     * the doc includes [helpful examples](https://docs.rs/clap/latest/clap/_derive/_cookbook/index.html#modules)
+  * [log](https://crates.io/crates/log) provides a logging façade for which [many adapters](https://docs.rs/log/latest/log/#available-logging-implementations) exist
+  * [clap-verbosity-flag](https://crates.io/crates/clap-verbosity-flag) integrates with [clap](https://crates.io/crates/clap) and [log](https://crates.io/crates/log) to provide a quick and easy way to control log levels via flags
+  * [indicatif](https://crates.io/crates/indicatif) offers progress bars and spinners
 
 # Async Rust
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/) - AKA the Async Book
