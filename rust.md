@@ -68,6 +68,7 @@
   * [user/developer doc](https://youki-dev.github.io/youki/)
  
 # Testing
+* [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
 * [rstest](https://crates.io/crates/rstest)
   * test framework that provides proc macros to make writing fixtures and table-based tests easier
 * [QuickCheck](https://crates.io/crates/quickcheck)
