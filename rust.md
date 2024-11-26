@@ -68,9 +68,14 @@
   * [user/developer doc](https://youki-dev.github.io/youki/)
  
 # Testing
-* [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
+## General
 * [rstest](https://crates.io/crates/rstest)
   * test framework that provides proc macros to make writing fixtures and table-based tests easier
+* [Mockall](https://crates.io/crates/mockall)
+  * mocking lib - the [automock](https://docs.rs/mockall/latest/mockall/attr.automock.html) macro is particularly convenient
+* [Criterion](https://crates.io/crates/criterion)
+  * microbenchmarking lib inspired by [its Haskell namesake](https://hackage.haskell.org/package/criterion)
+## Testing against pseudo-random inputs
 * Property-based testing crates:
   * [proptest](https://crates.io/crates/proptest) is inspired by Python's [Hypothesis](https://hypothesis.works)
     * [proptest book](https://proptest-rs.github.io/proptest/)
@@ -80,10 +85,9 @@
     * also see the [`does this replace quickcheck completely?` thread](https://github.com/proptest-rs/proptest/issues/15)
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
   * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
-* [Mockall](https://crates.io/crates/mockall)
-  * mocking lib - the [automock](https://docs.rs/mockall/latest/mockall/attr.automock.html) macro is particularly convenient
-* [Criterion](https://crates.io/crates/criterion)
-  * microbenchmarking lib inspired by [its Haskell namesake](https://hackage.haskell.org/package/criterion)
+* Property testing and fuzzing compared and contrasted:
+  * [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
+  * [Fuzzing vs property testing](https://www.tedinski.com/2018/12/11/fuzzing-and-property-testing.html)
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
