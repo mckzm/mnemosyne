@@ -71,13 +71,13 @@
 * [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
 * [rstest](https://crates.io/crates/rstest)
   * test framework that provides proc macros to make writing fixtures and table-based tests easier
-* [QuickCheck](https://crates.io/crates/quickcheck)
-  * property-based testing
-* [proptest](https://crates.io/crates/proptest)
-  * property-based testing
-  * more actively maintained than quickcheck, inspired by Python's [Hypothesis](https://hypothesis.works)
-    * [differences between quickcheck and proptest, from the README](https://github.com/proptest-rs/proptest?tab=readme-ov-file#differences-between-quickcheck-and-proptest)
-  * [proptest book](https://proptest-rs.github.io/proptest/)
+* Property-based testing crates:
+  * [proptest](https://crates.io/crates/proptest) is inspired by Python's [Hypothesis](https://hypothesis.works)
+    * [proptest book](https://proptest-rs.github.io/proptest/)
+  * [QuickCheck](https://crates.io/crates/quickcheck) is similar to [its Haskell namesake](https://hackage.haskell.org/package/QuickCheck)
+  * differences between `proptest` and `quickcheck`:
+    * [as described in the latter's README](https://github.com/proptest-rs/proptest?tab=readme-ov-file#differences-between-quickcheck-and-proptest)
+    * also see the [`does this replace quickcheck completely?` thread](https://github.com/proptest-rs/proptest/issues/15)
 * [cargo-fuzz](https://crates.io/crates/cargo-fuzz)
   * CLI front-end for [libFuzzer](https://llvm.org/docs/LibFuzzer.html)
 * [Mockall](https://crates.io/crates/mockall)
