@@ -44,6 +44,8 @@
      * tools incl. `Clippy`, `rustfmt`, `Miri` and macro expansion (nightly only)
      * supported output formats incl. asm, wasm and Rust's various IRs
      * only really lacks a REPL :-)
+* [bacon](https://dystroy.org/bacon/)
+  * featureful and ergonomic background code checker
 * [cargo-expand](https://crates.io/crates/cargo-expand)
   * outputs the exansions of the current crate's `macro_rules!`s and `#derive`s
 * [pest](https://pest.rs) parser
