@@ -90,6 +90,8 @@
 * Property testing and fuzzing compared and contrasted:
   * [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)
   * [Fuzzing vs property testing](https://www.tedinski.com/2018/12/11/fuzzing-and-property-testing.html)
+* [Demystifying monads in Rust through property-based testing](https://sunshowers.io/posts/monads-through-pbt/)
+  * great introduction to property-based testing (and monads)
    
 # Embedded Rust
 * [Embedded Rust doc](https://docs.rust-embedded.org)
