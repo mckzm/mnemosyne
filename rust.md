@@ -149,7 +149,7 @@
 * [Async: What is blocking?](https://ryhl.io/blog/async-what-is-blocking/)
 * [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 * [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
-* [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/) / [Why Async Rust?](Why async Rust?) (listed in chronological order)
+* [Why Async Rust](https://blog.yoshuawuyts.com/why-async-rust/) / [Why Async Rust?](https://without.boats/blog/why-async-rust/) (listed chronologically by authoring time)
   * both pieces go into a lot of detail about async Rust's internals, their motivations and ramifications
 * Cancellations:
   * [Async Cancellation](https://blog.yoshuawuyts.com/async-cancellation-1/)
